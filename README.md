@@ -4,5 +4,5 @@ Now avaliable projects using:
 #Scala/Java (Automotive,Consumer service, Customer care)
 #Python (Various domains, Automotive)
 #Android Apps
-#Test Automation (mostly--> Python, Automotive, Wearables)
+#Test Automation: mostly--> #Python (Automotive, Wearables)
 #PHP (Telecomunication)
